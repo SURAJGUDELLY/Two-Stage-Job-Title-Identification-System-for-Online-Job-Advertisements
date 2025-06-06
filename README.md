@@ -1,0 +1,2 @@
+# Two-Stage-Job-Title-Identification-System-for-Online-Job-Advertisements
+This project is a web-based application designed to predict job titles from job advertisement descriptions. It works in two stages:  Preprocessing Stage – Takes raw job advertisement data, cleans and prepares it.  Prediction Stage – Uses a trained machine learning model to predict the job title based on the description provided.
